@@ -1,0 +1,21 @@
+#image{
+    height: 300px;
+    width: 300px;
+}
+.btn{
+    margin-top: 15px;
+}
+h2{
+    float: right;
+    margin-right: 200px;
+}
+#result{
+    align-items: center;
+    margin-left: 30px;
+}
+.everydiv{
+    background-color: thistle;
+    width: 60%;
+    margin-bottom: 25px;
+    border: violet 10px solid ;
+}
